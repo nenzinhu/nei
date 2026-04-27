@@ -1,0 +1,7 @@
+.aider*
+node_modules/
+.venv/
+capacitor-www/
+*.log
+*.zip
+.gemini/

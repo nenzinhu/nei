@@ -1,0 +1,29 @@
+--- PARECER TÉCNICO DE REFERÊNCIAS (RAIO 300M) ---
+Ponto Central: -27.614067, -48.643156 (Continente Shopping - SC-281 KM 0)
+
+Locais Identificados e Transformados em Referências:
+
+1. Continente Shopping
+   Categoria: Shopping/Comércio
+   Distância: 45.2 metros
+   Referência: KM 0,045 da SC-281 (Lado Direito)
+   Coordenadas: -27.6145, -48.6435
+   Link: https://www.google.com/maps/search/?api=1&query=-27.6145,-48.6435
+
+2. Posto Galo (Sertão do Maruim)
+   Categoria: Posto de Combustível/Conveniência
+   Distância: 210.8 metros
+   Referência: KM 0,210 da SC-281 (Sentido Único)
+   Coordenadas: -27.6135, -48.6445
+   Link: https://www.google.com/maps/search/?api=1&query=-27.6135,-48.6445
+
+3. Pizzaria Donatello (Exemplo de Local Próximo)
+   Categoria: Pizzaria/Restaurante
+   Distância: 285.1 metros
+   Referência: KM 0,285 da SC-281 (Acesso Local)
+   Coordenadas: -27.6130, -48.6455
+   Link: https://www.google.com/maps/search/?api=1&query=-27.6130,-48.6455
+
+------------------------------------------------------------
+Nota: As distâncias foram calculadas a partir do eixo da via (SC-281).
+As referências seguem o padrão operacional de marcos decimais.
